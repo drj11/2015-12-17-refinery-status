@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600"
+   height="1200"
+   id="svg8500"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 1600 1200"
+   sodipodi:docname="030inside.svg">
+  <defs
+     id="defs8502" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.76583333"
+     inkscape:cx="800"
+     inkscape:cy="600"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata8505">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="659.41241"
+       y="101.84984"
+       id="text8508"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8510"
+         x="659.41241"
+         y="101.84984">Inside Refinery</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="898.38373"
+       y="220.67461"
+       id="text8527"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8529"
+         x="898.38373"
+         y="220.67461">PostgreSQL persistent data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="139.49944"
+       y="462.67679"
+       id="text8531"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8533"
+         x="139.49944"
+         y="462.67679">Python programming language</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="900.14154"
+       y="341.67569"
+       id="text8535"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8537"
+         x="900.14154"
+         y="341.67569">solr indexing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="898.6767"
+       y="462.67682"
+       id="text8558"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8560"
+         x="898.6767"
+         y="462.67682">neo4j graph database</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="898.6767"
+       y="583.67786"
+       id="text8562"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8564"
+         x="898.6767"
+         y="583.67786">rabbitmq messaging</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="139.7924"
+       y="704.67896"
+       id="text8566"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8568"
+         x="139.7924"
+         y="704.67896">nodejs programming language</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="898.6767"
+       y="704.67896"
+       id="text8570"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8572"
+         x="898.6767"
+         y="704.67896">memcached caching</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="900.14154"
+       y="825.68005"
+       id="text8574"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8576"
+         x="900.14154"
+         y="825.68005">supervisord system services</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="141.02287"
+       y="220.67461"
+       id="text8578"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8580"
+         x="141.02287"
+         y="220.67461">apache2 web requests</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="732.53534"
+       y="899.67358"
+       id="text8582"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8584"
+         x="732.53534"
+         y="899.67358" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="139.49944"
+       y="341.67575"
+       id="text8586"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8588"
+         x="139.49944"
+         y="341.67575">Django web framework</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="143.11272"
+       y="825.68005"
+       id="text8590"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8592"
+         x="143.11272"
+         y="825.68005">Angular frontend</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="141.17912"
+       y="583.67786"
+       id="text8594"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8596"
+         x="141.17912"
+         y="583.67786">Celery scheduling</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="145.49553"
+       y="946.68115"
+       id="text8598"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8600"
+         x="145.49553"
+         y="946.68115">JavaScript programming language</tspan></text>
+  </g>
+</svg>
