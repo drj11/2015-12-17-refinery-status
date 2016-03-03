@@ -343,7 +343,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -416,7 +416,7 @@
            height="925.78888"
            x="56.147987"
            y="229.81502" /></flowRegion><flowPara
-         id="flowPara5316"></flowPara></flowRoot>    <text
+         id="flowPara5316" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="122.7421"
@@ -459,6 +459,6 @@
          sodipodi:role="line"
          id="tspan5344"
          x="121.45304"
-         y="574.53754">Monitoring - reliably tell when a Galazy job has finished/failed</tspan></text>
+         y="574.53754">Monitoring - reliably tell when a Galaxy job has finished/failed</tspan></text>
   </g>
 </svg>
